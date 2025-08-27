@@ -54,7 +54,7 @@ Over six weeks, the project evolved from a basic Django setup into a scalable, o
 - Real-time order monitoring with SmartAPI 👁️  
 - Multi-client concurrency handling 🧵  
 - Redis caching and concurrency optimizations 💾  
-- Next.js frontend integration 🖥️  
+- react.js frontend integration 🖥️  
 - Docker containerization and AWS hosting research ☁️🐳  
 
 This internship greatly enhanced my skills in backend optimization, real-time systems development, and deployment.
